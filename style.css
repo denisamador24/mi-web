@@ -1,3 +1,7 @@
+body {
+    background: gray;
+}
+
 #conten {
     margin: 0px 10px 0px 10px;
     padding: 10px;
@@ -22,4 +26,11 @@
     margin-left: 10px;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+#footer {
+    color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
 }
