@@ -28,6 +28,13 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+#img-team-platzi {
+    margin: 0px 15px 0px 15px;
+    border-radius: 10px;
+    width: 99%;
+    height: 99%;
+}
+
 #footer {
     color: aquamarine;
     font-family: Arial, Helvetica, sans-serif;
